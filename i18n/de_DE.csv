@@ -1,0 +1,57 @@
+"Your account is already being to be removed.","Ihr Kundenkonto ist bereit zum Löschen"
+"Your account is being removed.","Ihr Kundenkonto wird gelöscht"
+"You did not sign in correctly or your account is temporarily disabled.","You did not sign in correctly or your account is temporarily disabled."
+"Something went wrong, please try again later!","Something went wrong, please try again later!"
+"File ""%1"" not found.","Datei ""%1"" nicht gefunden."
+"You canceled your account deletion.","Sie können die Löschung rückgängig machen"
+Delete,Löschen
+Anonymize,Anonymisieren
+"Entity for customer id ""%1"" already exists.","Entity for customer id ""%1"" already exists."
+"Customer with id ""%1"" is already being removed.","Customer with id ""%1"" is already being removed."
+"Entity with id ""%1"" could not be processed.","Entity with id ""%1"" could not be processed."
+"Could not save the entity.","Could not save the entity."
+"Entity with id ""%1"" does not exists.","Entity with id ""%1"" does not exists."
+"Entity with customer id ""%1"" does not exist.","Entity with customer id ""%1"" does not exist."
+"Could not delete entity with id ""%1"".","Could not delete entity with id ""%1""."
+%1Anonymous%2,%1Anonymous%2
+%1anonymous%2@gdpr.org,%1anonymous%2@gdpr.org
+"* Required Fields","* Pflichtfelder"
+"Required Fields","Pflichfelder"
+Password,Passwort
+"Delete Account","Konto löschen"
+Back,Zurück
+"Right to be forgotten","Recht auf Vergessenwerden"
+"Your account will be deleted soon. You can undo this action.","Ihr Konto wird in Kürze gelöscht. Sie können es rückgängig machen."
+"Undo Action","Aktion widerrufen"
+"Export Personal Data","Persönliche Daten exportieren"
+Information,Information
+"Cookie Disclosure","Cookie Disclosure"
+"Read More","Weitere Informationen"
+Accept,Akzeptieren
+Attention,Attention
+"Do you really want to delete your account?","Wollen Sie Ihren Account wirklich löschen?"
+"Customer Privacy (GDPR)","Customer Privacy (GDPR)"
+"Cookie Settings","Cookie Einstellungen"
+"Right To Erasure","Recht auf Löschung"
+Erasure,Löschen
+"Default Erasure Strategy","Default Erasure Strategy"
+"Erasure Time Laps","Erasure Time Laps"
+"Erasure time lapse in seconds before the execution","Erasure time lapse in seconds before the execution"
+"Cron Schedule","Cron Schedule"
+Anonymization,Anonymisierung
+"Delete Customer if no Orders","Lösche Kunden ohne Bestellung"
+"We will delete the customer if he has no orders.","We will delete the customer if he has no orders."
+"Apply Deletion Strategy","Apply Deletion Strategy"
+"This processors list allows to configure specific erasure strategy by component.","This processors list allows to configure specific erasure strategy by component."
+"Privacy Settings","Privacy Settings"
+"Export Settings","Export Einstellungen"
+Export,Export
+Renderer,Renderer
+"Customer Attributes","Kunden Attribute"
+"This attributes list will be exported when processed.","This attributes list will be exported when processed."
+"Customer Address Attributes","Adressattribute des Kunden"
+"This address attributes list will be exported when processed.","This address attributes list will be exported when processed."
+General,Allgemein
+Enabled,Aktiv
+"Information page","Informationsseite"
+"This page should store information about privacy and GDPR policy.","This page should store information about privacy and GDPR policy."
