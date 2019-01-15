@@ -1,9 +1,9 @@
-"Your account is already being to be removed.","Dein Kundenkonto ist bereit zum Löschen"
-"Your account is being removed.","Dein Kundenkonto wird gelöscht"
+"Your account is already being to be removed.","Ihr Kundenkonto ist bereit zum Löschen"
+"Your account is being removed.","Ihr Kundenkonto wird gelöscht"
 "You did not sign in correctly or your account is temporarily disabled.","You did not sign in correctly or your account is temporarily disabled."
 "Something went wrong, please try again later!","Something went wrong, please try again later!"
-"File ""%1"" not found.","File ""%1"" not found."
-"You canceled your account deletion.","You canceled your account deletion."
+"File ""%1"" not found.","Datei ""%1"" nicht gefunden."
+"You canceled your account deletion.","Sie können die Löschung rückgängig machen"
 Delete,Löschen
 Anonymize,Anonymisieren
 "Entity for customer id ""%1"" already exists.","Entity for customer id ""%1"" already exists."
