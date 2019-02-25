@@ -14,12 +14,7 @@
         "magento/module-backend": "*",
         "magento/framework": "*"
     },
-    "require-dev": {
-        "magento/marketplace-eqp": "^1.0.0",
-        "roave/security-advisories": "dev-master"
-    },
-    "type": "magento2-module",
-    "version": "magento2.3.x",
+
     "license": [
         "MIT"
     ],
